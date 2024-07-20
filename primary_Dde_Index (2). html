@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benson Opeli - Petroleum and Geothermal Energy Professional</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: white;
+            color: #333;
+        }
+        header {
+            background-color: maroon;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+        }
+        .profile-img {
+            display: block;
+            margin: 0 auto;
+            width: 150px;
+            height: auto;
+            border-radius: 50%;
+        }
+        .bio {
+            text-align: center;
+        }
+        .section-title {
+            color: maroon;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        .social-links {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .social-links a {
+            color: maroon;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        footer {
+            background-color: blue;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Benson Opeli</h1>
+        <p>Petroleum and Geothermal Energy Professional</p>
+    </header>
+    <div class="content">
+        <img src="https://example.com/white-helmet.jpg" alt="Engineering Helmet" class="profile-img">
+        <div class="bio">
+            <p>Hello! I am Benson Opeli, a Petroleum Exploration and Production graduate with a keen interest in Drilling Engineering. I am passionate about exploring and producing petroleum and geothermal energy resources efficiently and safely. I am currently looking for career opportunities where I can apply my skills and knowledge.</p>
+        </div>
+        <div class="experience">
+            <h2 class="section-title">Industrial Attachment</h2>
+            <p>I completed an industrial attachment at Kenya Electricity Generating Company (KenGen) in the Drilling department. During this time, I gained hands-on experience in drilling operations, safety protocols, and the utilization of advanced drilling technologies for geothermal energy production.</p>
+        </div>
+        <div class="skills">
+            <h2 class="section-title">Skills</h2>
+            <p>I am equipped with data analysis tools such as Pandas, Numpy, Plotly, and Matplotlib. Additionally, I am skilled in drilling engineering practices such as tripping, bit assessment, and deviation survey, cementing operations, Drilling data recording and interpretation, preparation of Daily drilling reports etc.</p>
+        </div>
+        <div class="social-links">
+            <h2 class="section-title">Connect with Me</h2>
+            <a href="https://www.linkedin.com/in/benson-opeli-364491204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a>
+            <p>Email: <a href="mailto:opelibenson@gmail.com">opelibenson@gmail.com</a></p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Benson Opeli</p>
+    </footer>
+</body>
+</html>
